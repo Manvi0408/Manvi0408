@@ -78,6 +78,13 @@ Here are some ideas to get you started:
 
 
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvi0408&theme=github-dark&bg_color=0d1117&color=9e77c9&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" width="95%">
+</div>
+
+
+
+
 
 
 
