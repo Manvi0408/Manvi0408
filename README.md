@@ -1,9 +1,6 @@
 # 👋 Hello, My Name is Manvi Yadav  
 ### 💻 Software Developer
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvi0408&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="95%">
-</div>
 
 
 <div align="center">
@@ -72,6 +69,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvi0408&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="95%">
+</div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Manvi0408&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi0408&theme=radical&hide_border=false&layout=compact" height="180em" alt="Top Languages"/>
+
+</div>
+
 
 
 
