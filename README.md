@@ -1,4 +1,4 @@
-# 👋 Hello, my name is Manvi Yadav  
+# 👋 Hello, My Name is Manvi Yadav  
 ### 💻 Software Developer
 
 
@@ -11,6 +11,43 @@
 
 Welcome to my GitHub profile!  
 I’m passionate about building scalable, impactful solutions and exploring the world of software engineering 🚀
+
+
+## 👨🏻‍💻  A Little Bit About Me and My Interests  
+name: Manvi Yadav  
+located_in: India  
+current_job: Software Developer  
+education:  
+     - 3rd Year, Bachelor's in Computer Science — SRM University  
+
+
+fields_of_interests:  
+  - Web Development  
+  - Machine Learning  
+  - Data Science  
+  - UI/UX Design  
+  - DevOps  
+  - Open Source  
+
+technical_background:  
+  - Full Stack Developer  
+  - Contributor in Girlscript Summer of Code & Hacktoberfest  
+  - Competitive Programmer  
+  - Intern - Software Development  
+
+currently_learning:  
+  - Docker, React, and Next.js  
+
+2025 Goals:  
+  - Build impactful projects and contribute more to open source  
+  - Learn new technologies and frameworks  
+
+hobbies:  
+  - Coding  
+  - Reading Tech Blogs  
+  - Music  
+  - Design  
+
 
 
 <!--
