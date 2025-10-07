@@ -1,6 +1,15 @@
 ## Hi there 👋
 
 
+![Header Image](https://raw.githubusercontent.com/Manvi0408/Manvi0408/main/header.jpeg)
+
+# 👋 Hello, my name is Manvi Yadav  
+### 💻 Software Developer
+
+Welcome to my GitHub profile!  
+I’m passionate about building scalable, impactful solutions and exploring the world of software engineering 🚀
+
+
 <!--
 **Manvi0408/Manvi0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
