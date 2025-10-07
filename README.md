@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 --> 
 
 
-##Most Used Languages
+
 <div align="center"> <!-- GitHub Stats Card --> <img src="https://github-readme-stats.vercel.app/api?username=Manvi0408&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/> <!-- Most Used Languages - Web Development Focus --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi0408&theme=radical&hide_border=false&layout=compact&langs_count=8&hide=python,java,c%2B%2B,c&exclude_repo=linux-kernel,assembly-projects" height="180em" alt="Top Languages"/></div>
 
 
