@@ -2,7 +2,8 @@
 ### 💻 Software Developer
 
 
-![study in the library for uni](https://github.com/user-attachments/assets/8572a1b7-ca4a-4173-9876-51f3fc4a8389)
+![#illustration enjoy moment - Uomiのイラスト - pixiv](https://github.com/user-attachments/assets/865b9e64-b645-47ce-a18e-b8aae6b28477)
+
 
 
 
