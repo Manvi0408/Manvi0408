@@ -1,11 +1,12 @@
-## Hi there 👋
-
-
-![Dark Coding 🌙💻](https://github.com/user-attachments/assets/74842696-06e1-428c-bc30-291f963071c9)
-
-
 # 👋 Hello, my name is Manvi Yadav  
 ### 💻 Software Developer
+
+
+![study in the library for uni](https://github.com/user-attachments/assets/8572a1b7-ca4a-4173-9876-51f3fc4a8389)
+
+
+
+
 
 Welcome to my GitHub profile!  
 I’m passionate about building scalable, impactful solutions and exploring the world of software engineering 🚀
