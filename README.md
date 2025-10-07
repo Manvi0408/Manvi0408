@@ -99,6 +99,10 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="vite" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
 </p>
+<div align="center">
+  <img src="https://i.imgur.com/MH2gUjF.gif" width="200px" alt="Purple Glow" />
+</div>
+
 
 
 
