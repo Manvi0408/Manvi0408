@@ -12,8 +12,8 @@
 Welcome to my GitHub profile!  
 I’m passionate about building scalable, impactful solutions and exploring the world of software engineering 🚀
 
-```yaml
 ## 👨🏻‍💻  A Little Bit About Me and My Interests  
+```yaml
 name: Manvi Yadav  
 located_in: India  
 current_job: Software Developer  
