@@ -70,17 +70,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <div align="center">
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvi0408&theme=react-dark&bg_color=0d1117&hide_border=true&color=a855f7&line=c084fc&point=ffffff&area=true" width="95%">
-</p>
-
-<!-- Alternative if above fails -->
-<!--
-<img src="https://activity-graph.herokuapp.com/graph?username=Manvi0408&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="95%">
--->
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=Manvi0408&theme=react-dark&bg_color=0d1117&hide_border=true&color=a855f7&line=c084fc&point=ffffff&area=true" width="95%">
 </div>
 
 
