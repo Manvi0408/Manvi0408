@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![Header Image](https://raw.githubusercontent.com/Manvi0408/Manvi0408/main/header.jpeg)
+![Dark Coding 🌙💻](https://github.com/user-attachments/assets/74842696-06e1-428c-bc30-291f963071c9)
+
 
 # 👋 Hello, my name is Manvi Yadav  
 ### 💻 Software Developer
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-![Snake animation](https://github.com/Manvi0408/Manvi0408/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
