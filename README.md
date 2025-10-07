@@ -100,8 +100,16 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
 </p>
 <div align="center">
-  <img src="https://i.imgur.com/MH2gUjF.gif" width="200px" alt="Purple Glow" />
+  <div style="
+    width: 90%;
+    height: 5px;
+    background: #a855f7;
+    box-shadow: 0 0 15px 3px #a855f7;
+    border-radius: 10px;
+    margin-top: 20px;
+  "></div>
 </div>
+
 
 
 
