@@ -1,9 +1,6 @@
 # 👋 Hello, My Name is Manvi Yadav  
 ### 💻 Software Developer
 
-
-![#illustration enjoy moment - Uomiのイラスト - pixiv](https://github.com/user-attachments/assets/865b9e64-b645-47ce-a18e-b8aae6b28477)
-
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViMWl4MzM3ZWFhdTVwcTh1bG0zODFveXVsd2Y2OXZ0dnlkMHhlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" alt="Purple Glow GIF">
 </div>
