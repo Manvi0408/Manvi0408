@@ -16,6 +16,23 @@
 Welcome to my GitHub profile!  
 I’m passionate about building scalable, impactful solutions and exploring the world of software engineering 🚀
 
+
+<p><b>I love working with</b></p>
+
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+</div>
+
 ## 👨🏻‍💻  A Little Bit About Me and My Interests  
 ```yaml
 name: Manvi Yadav  
