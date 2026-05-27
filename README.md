@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViMWl4MzM3ZWFhdTVwcTh1bG0zODFveXVsd2Y2OXZ0dnlkMHhlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" alt="Purple Glow GIF">
+ file:///C:/Users/Manvi/Downloads/manvi-banner.html
 </div>
 
 
