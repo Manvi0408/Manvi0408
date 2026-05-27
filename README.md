@@ -42,7 +42,7 @@ technical_background:
 currently_learning:  
   - Docker, React, and Next.js  
 
-2025 Goals:  
+2026 Goals:  
   - Build impactful projects and contribute more to open source  
   - Learn new technologies and frameworks  
 
