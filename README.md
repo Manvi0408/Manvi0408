@@ -3,9 +3,9 @@
 
 
 
-<div align="center">
- file:///C:/Users/Manvi/Downloads/manvi-banner.html
-</div>
+<a href="https://banner-beta-rouge.vercel.app/">
+  <img src="https://your-static-preview-image.gif" width="100%">
+</a>
 
 
 
