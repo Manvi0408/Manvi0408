@@ -1,11 +1,7 @@
 # 👋 Hello, My Name is Manvi Yadav  
 ### 💻 Software Developer
 
-
-
-<a href="https://claude.ai/public/artifacts/85931407-a847-4726-a516-303e13cc3929">
-  Click to view live banner
-</a>
+![Manvi0408 Banner Image](./banner.png)
 
 
 
