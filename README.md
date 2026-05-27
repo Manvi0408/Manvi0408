@@ -2,6 +2,9 @@
 
 ![Manvi0408 Banner Image](./banner.png)
 
+
+![](https://komarev.com/ghpvc/?username=Manvi0408&color=fb4362)
+
 # 👋 Hello, My Name is Manvi Yadav  
 
 
