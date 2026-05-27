@@ -4,7 +4,7 @@
 
 
 <a href="https://banner-beta-rouge.vercel.app/">
-  <img src="https://your-static-preview-image.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Manvi0408/banner/main/banner.gif" width="100%" alt="Manvi Banner">
 </a>
 
 
