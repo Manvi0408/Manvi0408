@@ -3,8 +3,8 @@
 
 
 
-<a href="https://banner-beta-rouge.vercel.app/">
-  <img src="https://raw.githubusercontent.com/Manvi0408/banner/main/banner.gif" width="100%" alt="Manvi Banner">
+<a href="https://claude.ai/public/artifacts/85931407-a847-4726-a516-303e13cc3929">
+  Click to view live banner
 </a>
 
 
