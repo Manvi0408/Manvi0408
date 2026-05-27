@@ -1,7 +1,8 @@
-# 👋 Hello, My Name is Manvi Yadav  
-### 💻 Software Developer
+
 
 ![Manvi0408 Banner Image](./banner.png)
+
+# 👋 Hello, My Name is Manvi Yadav  
 
 
 
