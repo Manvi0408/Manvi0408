@@ -1,6 +1,5 @@
 
 
-![Manvi0408 Banner Image](./banner.png)
 
 
 ![](https://komarev.com/ghpvc/?username=Manvi0408&color=fb4362)
@@ -36,7 +35,38 @@ I’m passionate about building scalable, impactful solutions and exploring the 
 ### 🔭 I’m working on
 
 - Building **AI + Full-Stack integrated applications** that combine modern frontend frameworks with intelligent backend systems to create smart, real-world solutions.  
-- Developing **AI-powered web platforms** with features like automation, intelligent recommendations, and conversational interfaces using LLMs.  
+- Developing **AI-powered web platforms** with features like automation, intelligent recommendations, and conversational interfaces using LLMs.
+
+### 🌱 I’m learning
+
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+
+  <img src="https://img.shields.io/badge/AI%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration"/>
+
+  <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Applications"/>
+
+  <img src="https://img.shields.io/badge/Full%20Stack%20AI%20Apps-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack AI Apps"/>
+
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+
+</div>
+
+### 🤔 I’m looking for help with
+
+- Integrating AI models to web applications
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/manvi-yadav-1168462a9/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+</div>
+
+### ⚡ Fun fact
+
+I'm definitely not a cat person.
 
 
 
