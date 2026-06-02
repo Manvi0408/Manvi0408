@@ -32,6 +32,106 @@ I’m passionate about building scalable, impactful solutions and exploring the 
 
 </div>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
+```javascript
+const manvi = {
+    name: "Manvi Yadav",
+    role: "Full-Stack Developer",
+    location: "Somewhere between VS Code and reality",
+
+    expertise: {
+        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+        database: ["MongoDB", "MySQL", "Firebase"],
+        cloud: ["AWS", "Vercel", "Netlify"]
+    },
+
+    currentlyExploring: [
+        "AI Integration",
+        "LLM Applications",
+        "Full-Stack AI Apps",
+        "Prompt Engineering",
+        "RAG Pipelines",
+        "OpenAI / Gemini APIs"
+    ],
+
+    quote: "I don’t always fix bugs, but when I do, I create two more."
+};
+```
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="48" height="48" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" alt="icon" width="48" height="48" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+<br>MySQL
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="48" height="48" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="48" height="48" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" alt="icon" width="48" height="48" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="48" height="48" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="48" height="48" />
+<br>GraphQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" alt="icon" width="48" height="48" />
+<br>Git
+</td>
+</tr>
+</table>
+
 ### 🔭 I’m working on
 
 - Building **AI + Full-Stack integrated applications** that combine modern frontend frameworks with intelligent backend systems to create smart, real-world solutions.  
