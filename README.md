@@ -4,33 +4,31 @@
 
 ![](https://komarev.com/ghpvc/?username=Manvi0408&color=fb4362)
 
-# 👋 Hello, My Name is Manvi Yadav  
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Manvi+Yadav+👋;Full-Stack+Developer+💻;Problem+Solver+🧠;Building+Scalable+Web+%26+AI+Apps+🚀" alt="Typing SVG" />
+</div>
 
+### 📫 How to reach me
 
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
 
+  <a href="https://www.linkedin.com/in/manvi-yadav-1168462a9/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
+  <a href="https://leetcode.com/u/FbK54UYwP9/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 
-Welcome to my GitHub profile!  
-I’m passionate about building scalable, impactful solutions and exploring the world of software engineering 🚀
-
-
-<p><b>I love working with</b></p>
-
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <a href="mailto:manviitnd0408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
 </div>
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
 ```javascript
@@ -132,6 +130,22 @@ const manvi = {
 </tr>
 </table>
 
+<p><b>I love working with</b></p>
+
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+</div>
+
 ### 🔭 I’m working on
 
 - Building **AI + Full-Stack integrated applications** that combine modern frontend frameworks with intelligent backend systems to create smart, real-world solutions.  
@@ -155,14 +169,7 @@ const manvi = {
 
 - Integrating AI models to web applications
 
-### 📫 How to reach me
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/manvi-yadav-1168462a9/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-</div>
 
 ### ⚡ Fun fact
 
