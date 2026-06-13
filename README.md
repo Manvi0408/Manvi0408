@@ -196,4 +196,4 @@ I'm definitely not a cat person.
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manvi0408&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Manvi0408&theme=dark&hide_border=true)](https://git.io/streak-stats)
