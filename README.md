@@ -27,7 +27,7 @@
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| 🩺 **SwasthAI – AI Healthcare Emergency Network** | React · Node.js · Prisma · Supabase · AI APIs · Tailwind | A real-time AI-powered healthcare intelligence platform that helps users instantly find nearby hospitals, check bed availability, locate blood banks, compare affordable medicines, and get AI-based symptom triage suggestions. Designed to reduce emergency response time and make healthcare access faster, smarter, and fully open (no login required). LIVE --> https://swasth-aii-e524.vercel.app/|
+| 🩺 **SwasthAI – AI Healthcare Emergency Network** | React · Node.js · Prisma · Supabase · AI APIs · Tailwind | A real-time AI-powered healthcare intelligence platform that helps users instantly find nearby hospitals, check bed availability, locate blood banks, compare affordable medicines, and get AI-based symptom triage suggestions. Designed to reduce emergency response time and make healthcare access faster, smarter, and fully open (no login required). LIVE --> https://swasth-ai-y244.vercel.app/|
 | 🐻 **BearWare – Event Management & Dashboard Platform** | Next.js 14 · TypeScript · Prisma · PostgreSQL · Stripe · Clerk · Tailwind | A full-stack event management SaaS platform for teams and communities featuring secure authentication, event categorization, real-time dashboards, Stripe-powered payments, API key generation, and Discord notifications. Built for scalability, modular architecture, and seamless user experience. LIVE --> https://bear-ware.vercel.app/ |
 
 
